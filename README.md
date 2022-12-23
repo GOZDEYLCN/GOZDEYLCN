@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GOZDEYLCN
-- 👀 I’m interested in cod
+- 👀 I’m interested in code
 - 🌱 I’m currently learning html,css,javascript
 - 📫 How to reach me mail on gozdekahraman449@gmail.com
 
